@@ -410,8 +410,8 @@ const HomePage = () => {
 </div>
 
 <Carousel className="">
-  <CarouselContent className="border-b border-gray-200 dark:border-neutral-800 flex max-h-fit md:items-center  ">
-    <CarouselItem className=" pt-20 bg-gradient-to-l from-[#e4d446] to-[#d59d04] dark:bg-gradient-to-l dark:from-transparent dark:to-transparent "> 
+  <CarouselContent className="border-b border-gray-200 dark:border-neutral-800 flex max-h-fit md:items-center ">
+    <CarouselItem className=" pt-28 bg-gradient-to-l from-[#e4d446] to-[#d59d04] dark:bg-gradient-to-l dark:from-transparent dark:to-transparent "> 
       <header className="container  mx-auto px-4 sm:px-8 pt-4 sm:pt-6 flex  justify-center items-center flex-col md:flex-row">
   {/* Text Content */}
   <div className="max-w-5xl mx-auto mb-8 md:mb-0 p-4 md:p-6 order-1 md:order-none">
@@ -436,7 +436,7 @@ const HomePage = () => {
 
     <a
       href={getSignInUrl()}
-      className="bg-blue-600 hover:bg-blue-700 px-4 py-1 md:px-6 md:py-2 rounded-full text-base md:text-lg font-medium inline-flex items-center gap-2 transition-all hover:gap-3"
+      className="bg-blue-600 hover:bg-blue-700 text-white px-4 py-1 md:px-6 md:py-2 rounded-full text-base md:text-lg font-medium inline-flex items-center gap-2 transition-all hover:gap-3"
     >
       Try it free <ArrowRight size={20} />
     </a>
@@ -455,6 +455,8 @@ const HomePage = () => {
       <div className="relative md:flex pt-20  bg-white dark:bg-neutral-900 overflow-hidden">
       <div className="container mx-auto my-auto  px-4 md:pl-10 relative z-10">
         <div className="max-w-3xl">
+        <Badge className="mb-2 bg-blue-500 inline-block text-white font-semibld py-1 px-3 rounded-full text-md border border-blue-500/50 backdrop-blur-sm ">Exportseese - Trust & Profit</Badge>
+
           <h1 className="text-4xl md:text-6xl font-black dark:text-gray-100 text-gray-900 mb-4">
           EXPORT IMPORT CONSULTANT &
 BUYING HOUSE
@@ -473,7 +475,7 @@ BUYING HOUSE
     </p>
     <a
       href={getSignInUrl()}
-      className="bg-blue-600 hover:bg-blue-700 px-4 py-1 md:px-6 md:py-2 rounded-full text-base md:text-lg font-medium inline-flex items-center gap-2 transition-all hover:gap-3"
+      className="bg-blue-600 text-white hover:bg-blue-700 px-4 py-1 md:px-6 md:py-2 rounded-full text-base md:text-lg font-medium inline-flex items-center gap-2 transition-all hover:gap-3"
     >
       Try it free <ArrowRight size={20} />
     </a>
@@ -504,8 +506,8 @@ BUYING HOUSE
         <div className="absolute inset-0 bg-gradient-to-r from-kargon-dark/70 to-kargon-blue/30"></div>
       </div>
       
-      <div className="container mx-auto px-4 md:px-6 relative z-10 pt-20">
-        <div className="max-w-3xl">
+      <div className="container mx-auto px-4 md:px-6 relative z-10 pt-20 text-center md:text-left">
+        <div className="max-w-3xl ">
         <Badge className="mb-2 bg-blue-500 inline-block text-white font-semibld py-2 px-3 rounded-lg text-md border border-blue-500/50 backdrop-blur-sm ">Exportseese - Trust & Profit</Badge>
 
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-6 leading-tight">
@@ -514,7 +516,7 @@ BUYING HOUSE
           <p className="text-xl text-white/90 mb-8 max-w-lg">
             Reliable and efficient logistics solutions tailored to your business needs.
           </p>
-          <Link href="/signup">
+          <Link href={getSignInUrl()}>
             <Button variant="default" className=" hover:bg-red-500/90 text-white rounded-md px-6 py-6 text-lg flex items-center gap-2">
               GET STARTED
               <ChevronRight size={20} />
@@ -528,7 +530,7 @@ BUYING HOUSE
   <CarouselPrevious />
   <CarouselNext />
 </Carousel>
-
+            
       <div className="py-6">
      <HeroVideoDialog
        className=""
