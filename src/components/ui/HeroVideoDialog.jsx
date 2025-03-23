@@ -66,7 +66,7 @@ export default function HeroVideoDialog({
         onClick={() => setIsVideoOpen(true)}
       >
        
-          <div className="flex w-[10%] sticky left-0 top-20 size-16 items-center justify-end bg-blue-800 rounded-r-full bg-primary/10 backdrop-blur-md">
+          <div className="flex md:w-[10%] sticky left-0 top-20 size-16 md:size-16 items-center justify-end bg-blue-800 rounded-r-full bg-primary/10 backdrop-blur-md">
             <div
               className={`relative flex size-14 mr-1 scale-100 items-center justify-center rounded-full bg-gradient-to-b from-primary/30 to-primary shadow-md transition-all duration-200 ease-out group-hover:scale-[1.2]`}
             >
