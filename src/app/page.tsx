@@ -796,7 +796,7 @@ text="ONE OF THE LEADING BUSINESS CONSULTANTS IN INDIA"
     </section>
 
 
-      <section className="relative py-20 ">
+{/*       <section className="relative py-20 ">
   <div className="absolute inset-0 z-0">
     <img
       src="https://i.pinimg.com/736x/f0/89/7c/f0897cab31ba87e41835eaeea71dfd16.jpg"
@@ -861,7 +861,7 @@ text="ONE OF THE LEADING BUSINESS CONSULTANTS IN INDIA"
       </ScrollAnimation>
     </div>
   </div>
-</section>
+</section> */}
 
 <Testimonials/>
 
