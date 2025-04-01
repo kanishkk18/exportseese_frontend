@@ -58,7 +58,7 @@ function Footer() {
   ];
 
   const getSignInUrl = () => {
-    return process.env.CUSTOM_SIGN_URL || "https://exporteese.vercel.app/";
+    return process.env.CUSTOM_SIGN_URL || "https://exportsee.vercel.app/";
   };
 
   const toggleAccordion = (index) => {
