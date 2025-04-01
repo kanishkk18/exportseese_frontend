@@ -11,7 +11,7 @@ export const HoverEffect = ({ items, className }) => {
   const clearHover = useCallback(() => setHoveredIndex(null), []);
 
   const getSignInUrl = () => {
-    return process.env.CUSTOM_SIGN_URL || "https://exporteese.vercel.app/";
+    return process.env.CUSTOM_SIGN_URL || "https://exportsee.vercel.app/";
   };
 
 
