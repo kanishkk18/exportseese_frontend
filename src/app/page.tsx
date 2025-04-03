@@ -630,7 +630,7 @@ text="ONE OF THE LEADING BUSINESS CONSULTANTS IN INDIA"
         </div>
       </section>
 
-      <section className="py-20 md:px-16 px-4 bg-[#efefef] dark:bg-[#181818]">
+{/*       <section className="py-20 md:px-16 px-4 bg-[#efefef] dark:bg-[#181818]">
       <div className="container mx-auto px-4 md:px-6">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 items-center">
           <div className="order-2 lg:order-1">
@@ -679,15 +679,32 @@ text="ONE OF THE LEADING BUSINESS CONSULTANTS IN INDIA"
           </div>
         </div>
       </div>
-    </section>
+    </section> */}
 
     <section className="py-16">
       <div className="container mx-auto px-4 md:px-6">
         <ScrollAnimation className="text-center mb-12">
-          <h2 className="text-3xl md:text-4xl font-bold mb-4">Our Services</h2>
-          <p className="text-gray-600 max-w-2xl mx-auto">
-            We provide comprehensive logistics solutions tailored to meet your specific needs.
-          </p>
+             <TextGenerationEffect
+  text="Our Services Options"
+  className="md:text-3xl font-semibold text-center"
+  delay={50}
+  animationFrom={{ opacity: 0, y: 50 }} // Changed to Framer Motion-friendly syntax
+  animationTo={{ opacity: 1, y: 0 }}
+  threshold={0.2}
+  rootMargin="-50px"
+  onLetterAnimationComplete={handleAnimationComplete}
+/>
+             <TextGenerationEffect
+  text=" We provide comprehensive logistics solutions tailored to meet your specific needs."
+  className="md:text-3xl font-semibold text-center"
+  delay={50}
+  animationFrom={{ opacity: 0, y: 50 }} // Changed to Framer Motion-friendly syntax
+  animationTo={{ opacity: 1, y: 0 }}
+  threshold={0.2}
+  rootMargin="-50px"
+  onLetterAnimationComplete={handleAnimationComplete}
+/>
+
         </ScrollAnimation>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
