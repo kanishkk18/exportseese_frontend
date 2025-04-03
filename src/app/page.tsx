@@ -683,7 +683,7 @@ text="ONE OF THE LEADING BUSINESS CONSULTANTS IN INDIA"
 
     <section className="py-16">
       <div className="container mx-auto px-4 md:px-6">
-        <ScrollAnimation className="text-center mb-12">
+        <ScrollAnimation className="text-center mb-12 flex w-full justify-center items-center">
              <TextGenerationEffect
   text="Our Services Options"
   className="md:text-3xl font-semibold text-center"
