@@ -416,7 +416,7 @@ const HomePage = () => {
   {/* Text Content */}
   <div className="max-w-5xl mx-auto mb-8 md:mb-0 p-4 md:p-6 order-1 md:order-none">
     <Badge className="mb-2 bg-blue-500 inline-block text-white font-semibld py-1 px-3 rounded-full text-md border border-blue-500/50 backdrop-blur-sm ">Exportseese - Trust & Profit</Badge>
-    <h1 className="text-4xl md:text-6xl font-bold mb-6 bg-gradient-to-bl dark:from-white from-black/55 to-blue-500 bg-clip-text text-transparent">
+    <h1 className="text-4xl md:text-6xl font-bold mb-6 bg-gradient-to-bl dark:from-white dark:to-white/80 from-black/55 to-blue-500 bg-clip-text text-transparent">
       EXPORT IMPORT{" "}
       <span className="block md:inline">CONSULTANT &</span>
       <span className="block">BUYING HOUSE</span>
