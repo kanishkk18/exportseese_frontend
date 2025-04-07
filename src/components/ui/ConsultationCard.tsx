@@ -35,7 +35,7 @@ const ConsultationCard: React.FC = () => {
               </div>
               <div>
                 <h4 className="font-medium text-gray-800 dark:text-gray-100 mb-1">Our Address</h4>
-                <p className="text-gray-500 dark:text-gray-400">162, KONARK APPARTMENT, POCKET-4, KALKAJI EXTENSION, DELHI-110019</p>
+                <p className="text-gray-500 dark:text-gray-400">B-217,218,219,Logix Technova, Sec-132, Noida-201301</p>
               </div>
             </div>
             <div className="flex items-start group">
