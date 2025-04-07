@@ -208,7 +208,7 @@ function Footer() {
       <div className=" mx-auto mt-2 px-4 py-4 rounded-2xl space-y-2 bg-black/35 md:flex justify-between items-center text-center">
      <p className='flex justify-center items-center gap-2 text-gray-300 text-sm '><BsTelephone  className='text-white text-lg'/> Mobile-9220452221</p>
     <p className='flex justify-center items-center gap-2 text-gray-300 text-sm '><FaAddressBook className='text-white md:h-6 md:w-6 h-10 w-10'/> ETERNAL E SERVICES-
-      162, KONARK APPARTMENT, POCKET-4, KALKAJI EXTENSION, DELHI-110019</p> 
+     B-217,218,219,Logix Technova, Sec-132, Noida-201301.</p> 
      <p className='flex justify-center items-center gap-2 text-gray-300 text-sm '><Mail className='text-white text-sm'/> Email- hello@exportseese.com</p>
       </div>
 
