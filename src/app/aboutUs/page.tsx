@@ -318,7 +318,7 @@ const AboutUs = () => {
                     <MapPin className="h-6 w-6 text-secondary mr-4 shrink-0" />
                     <div>
                       <h4 className="font-semibold text-primary mb-1">Our Address</h4>
-                      <p className="text-primary/70">162, KONARK APPARTMENT, POCKET-4, KALKAJI EXTENSION, DELHI-110019</p>
+                      <p className="text-primary/70">B-217,218,219,Logix Technova, Sec-132, Noida-201301</p>
                     </div>
                   </div>
                   <div className="flex items-start">
