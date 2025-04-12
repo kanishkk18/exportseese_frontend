@@ -85,7 +85,95 @@ export interface BlogPost {
         "coverImage": "https://i.pinimg.com/736x/0a/93/f5/0a93f51173c005075f0ee3c49e905c22.jpg",
         "isFeatured": true
       },
+       {
+        "id": "2",
+        "title": "Labour Statutory Compliance in India: What Every Export House Must Know",
+        "excerpt": "Understand the critical aspects of labour law compliance for contractual workers in Indian export houses. Learn the risks of non-compliance and how to mitigate them.",
+        "content": `
+          <p><strong>EXPORTSEESE – TRUST & PROFIT</strong></p>
+          <p>We are committed to providing multi-dimensional wide-range services to exporters & importers through our team of Export-Import Professionals for economical, transparent, timely logistics with complete consulting solutions at a single point. Our services include:</p>
+          <ul>
+            <li>Buying House Services</li>
+            <li>Recruitment & Talent Acquisition</li>
+            <li>Staffing & Manpower Outsourcing Services</li>
+            <li>HR Statutory Compliance Management</li>
+            <li>DGFT Related Issues</li>
+            <li>Custom Clearance Support</li>
+            <li>Foreign Trade Regulation Updates</li>
+            <li>Market Analysis & Research</li>
+            <li>Export Documentation</li>
+            <li>IGST Refund</li>
+            <li>Cross Border Finance & Taxation</li>
+            <li>Duty Drawback</li>
+            <li>Freight Forwarding - Sea and Air, LCL and FCL Shipping</li>
+          </ul>
       
+          <h2>Payroll Compliance for Contractual Workers in Export Houses</h2>
+          <p>Employers in India often overlook compliance for contractual workers, which can lead to severe penalties. Principal employers are responsible for all workers, including those hired through contractors. Here are common issues and tips to avoid them:</p>
+      
+          <h3>1. Incomplete Registration</h3>
+          <p>Ensure digital registration of every contractual worker with KYC documents like Aadhaar, PAN, photograph, education, and employment proof to avoid legal issues.</p>
+      
+          <h3>2. Lack of Online Records</h3>
+          <p>Contractors must maintain digital records and legal reports on their websites. Employers should verify this to prevent future audits issues.</p>
+      
+          <h3>3. Statutory Audit Preparedness</h3>
+          <p>Keep complete KYC and MIS records ready. Work with compliant contractors or payroll agencies to manage risks during audits.</p>
+      
+          <h3>4. Exemption Documentation</h3>
+          <p>Missing paperwork for tax exemptions may result in liabilities. Maintain proper records for all exempted workers.</p>
+      
+          <h3>5. Payroll Errors</h3>
+          <p>Ensure correct payroll calculations and timely submissions to labor authorities to avoid fines or disputes.</p>
+      
+          <h3>6. Delay in Payments</h3>
+          <p>Unorganized invoicing may delay payments, leading to attrition and non-compliance. Request online payment proof for all contractual workers.</p>
+      
+          <h3>7. Transparent Documentation</h3>
+          <p>Issue offer letters, appointment letters, and wage slips to all contractual staff. Conduct regular documentation audits.</p>
+      
+          <h3>8. Use of Payroll Software</h3>
+          <p>Relying on Excel increases legal risks. Use cloud-based HRMS for compliance and digital documentation. Hire experts if necessary.</p>
+      
+          <h3>9. Stay Updated</h3>
+          <p>Labour laws frequently change. Stay informed or consult a payroll specialist to remain compliant.</p>
+      
+          <h2>Key Statutory Compliances Applicable in India</h2>
+          <ul>
+            <li>Apprenticeship Act, 1961</li>
+            <li>Contract Labour (Regulation and Abolition) Act, 1970</li>
+            <li>Employees' Provident Fund & Miscellaneous Provisions Act, 1952</li>
+            <li>Employees’ State Insurance Act, 1948</li>
+            <li>Payment of Wages Act, 1936</li>
+            <li>Minimum Wages Act, 1948</li>
+            <li>Factories Act, 1948</li>
+            <li>Equal Remuneration Act, 1976</li>
+            <li>Maternity Benefit Act, 1961</li>
+            <li>Payment of Gratuity Act, 1972</li>
+            <li>Industrial Disputes Act, 1947</li>
+            <li>POSH Act, 2013</li>
+            <li>Shops and Establishments Act</li>
+            <li>Building & Other Construction Workers Act, 1996</li>
+            <li>Fire Safety Act, 2005</li>
+            <li>Bonus Act, 1965</li>
+            <li>Workmen's Compensation Act, 1923</li>
+            <li>Various state-specific Labour Welfare Fund Rules</li>
+            <li>TDS under Income Tax Act, 1961</li>
+          </ul>
+      
+          <p><strong>Contact:</strong> <a href="mailto:hello@exportseese.com">hello@exportseese.com</a> | <a href="https://www.exporteese.com">www.exporteese.com</a> | +91-9220452221</p>
+        `,
+        "author": {
+          "name": "Exporteese Team",
+          "avatar": "https://res.cloudinary.com/dna3hwzre/image/upload/v1741499065/473408572_1590238345196986_2661325784945347044_n_ii9ax7.jpg"
+        },
+        "date": "April 12, 2025",
+        "readTime": "8 min read",
+        "category": "Export-Import",
+        "tags": ["Labour Compliance", "Payroll", "Export House"],
+        "coverImage": "https://i.pinimg.com/736x/3a/4f/7f/3a4f7f2a5216ef7ca6ec5cf3483e0e04.jpg",
+        "isFeatured": true
+      },      
    {
       id: "3",
       title: "Designing for Accessibility: Creating Inclusive Web Experiences",
