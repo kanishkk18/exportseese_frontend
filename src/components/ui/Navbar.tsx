@@ -87,19 +87,19 @@ export function Navbar() {
             
               {/* Right Social Links */}
               <div className="flex justify-center gap-4">
-                <Link href="#" className="text-white hover:text-blue-200 transition-colors">
+                <Link href="www.youtube.com/@EXPORTSEESE" className="text-white hover:text-blue-200 transition-colors">
                   <BsYoutube className='h-6 w-6' />
                 </Link>
-                <Link href="#" className="text-white hover:text-blue-200 transition-colors">
+                <Link href="https://www.instagram.com/exportseese/" className="text-white hover:text-blue-200 transition-colors">
                   <BsInstagram className='h-5 w-5' />
                 </Link>
-                <Link href="#" className="text-white hover:text-blue-200 transition-colors">
+                <Link href="www.linkedin.com/in/exports-eese-595a6235b" className="text-white hover:text-blue-200 transition-colors">
                   <BsLinkedin className='h-5 w-5' />
                 </Link>
-                <Link href="#" className="text-white hover:text-blue-200 transition-colors">
+                <Link href="https://www.facebook.com/exportseese" className="text-white hover:text-blue-200 transition-colors">
                   <FaFacebook className='h-5 w-5' />
                 </Link>
-                <Link href="#" className="text-white hover:text-blue-200 transition-colors">
+                <Link href="https://x.com/exportseese" className="text-white hover:text-blue-200 transition-colors">
                   <BsTwitter className='h-5 w-5' />
                 </Link>
               </div>
