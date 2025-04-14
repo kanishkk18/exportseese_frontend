@@ -603,7 +603,7 @@ text="ONE OF THE LEADING BUSINESS CONSULTANTS IN INDIA"
             },
             {
               company: "DataFlow",
-              image: "https://ascgroup8.wordpress.com/wp-content/uploads/2025/01/image-2.png",
+              image: "https://i.pinimg.com/736x/56/30/a4/5630a4cca57bef592204a1522335c9ce.jpg",
               quote: "AEO Certification",
               author: "Exportseese facilitate exporters in acquiring Authorized Economic Operator Certificate under various categories AEO-T1, AEO-T2, AEO-T3 & AEO-LO based on their services. "
             },
